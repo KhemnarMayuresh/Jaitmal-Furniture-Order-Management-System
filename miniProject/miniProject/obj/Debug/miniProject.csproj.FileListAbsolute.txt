@@ -1,0 +1,5 @@
+c:\users\yash\documents\visual studio 2010\WebApplication\miniProject\miniProject\bin\miniProject.dll
+c:\users\yash\documents\visual studio 2010\WebApplication\miniProject\miniProject\bin\miniProject.pdb
+c:\users\yash\documents\visual studio 2010\WebApplication\miniProject\miniProject\obj\Debug\miniProject.dll
+c:\users\yash\documents\visual studio 2010\WebApplication\miniProject\miniProject\obj\Debug\miniProject.pdb
+C:\Users\Yash\documents\visual studio 2010\WebApplication\MiniProject\miniProject\obj\Debug\miniProject.csprojResolveAssemblyReference.cache
