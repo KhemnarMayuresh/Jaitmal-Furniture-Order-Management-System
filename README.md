@@ -1,5 +1,5 @@
 # Jaitmal Furniture Order Management System
- This project build using various concepts in asp.net like validation controls, Sessions,etc. 
+ It is a web application develop using asp.net in c#.This project build using various concepts in asp.net like validation controls, Sessions,etc. 
  This repository contains two main folders. One is "Project Data" which containes the door and databse designs. Another one is "miniProject" which is our main asp.net project file.
 
 # Problem Statement
